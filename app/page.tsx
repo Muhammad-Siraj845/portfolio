@@ -9,7 +9,7 @@ export default function Home() {
         <div className="absolute inset-0 bg-gradient-to-b from-purple-100/20 to-blue-100/20 dark:from-purple-900/20 dark:to-blue-900/20 -z-10" />
         <div className="space-y-6">
           <h1 className="text-5xl md:text-7xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-purple-600 to-blue-600">
-            Hi, I'm <span className="text-black dark:text-white">Your Name</span>
+            Hi, I&apos;m <span className="text-black dark:text-white">Your Name</span>
           </h1>
           <p className="text-xl md:text-2xl text-gray-600 dark:text-gray-300 max-w-2xl mx-auto">
             A passionate Full Stack Developer crafting beautiful and functional web experiences
@@ -55,7 +55,7 @@ export default function Home() {
           <div className="grid md:grid-cols-2 gap-8 items-center">
             <div className="space-y-4">
               <p className="text-gray-600 dark:text-gray-300">
-                I'm a passionate developer with expertise in modern web technologies. 
+                I&apos;m a passionate developer with expertise in modern web technologies. 
                 I love creating beautiful, responsive, and user-friendly applications 
                 that solve real-world problems.
               </p>
