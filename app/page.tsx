@@ -29,7 +29,7 @@ export default function Home() {
           <div className="space-y-6">
             <h1 className="text-5xl md:text-7xl font-bold">
               <span className="bg-clip-text text-transparent bg-gradient-to-r from-purple-600 to-blue-600">
-                Hi, I'm <span className="text-black dark:text-white">Your Name</span>
+                Hi, I&apos;m <span className="text-black dark:text-white">Your Name</span>
               </span>
             </h1>
             <div className="space-y-4">
@@ -125,7 +125,7 @@ export default function Home() {
           <div className="grid md:grid-cols-2 gap-8 items-center">
             <div className="space-y-4">
               <p className="text-gray-600 dark:text-gray-300">
-                I'm a passionate developer with expertise in modern web technologies. 
+                I&apos;m a passionate developer with expertise in modern web technologies. 
                 I love creating beautiful, responsive, and user-friendly applications 
                 that solve real-world problems.
               </p>
