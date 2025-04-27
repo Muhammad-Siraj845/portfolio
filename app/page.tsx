@@ -91,22 +91,7 @@ export default function Home() {
             </svg>
           </div>
 
-          {/* Stats */}
-          <div className="grid grid-cols-3 gap-8 mt-12">
-            <div className="text-center">
-              <div className="text-3xl font-bold text-purple-600 dark:text-purple-400">2+</div>
-              <div className="text-sm text-gray-500 dark:text-gray-400">Years Experience</div>
-            </div>
-            <div className="text-center">
-              <div className="text-3xl font-bold text-purple-600 dark:text-purple-400">10+</div>
-              <div className="text-sm text-gray-500 dark:text-gray-400">Projects Completed</div>
-            </div>
-            <div className="text-center">
-              <div className="text-3xl font-bold text-purple-600 dark:text-purple-400">5+</div>
-              <div className="text-sm text-gray-500 dark:text-gray-400">Happy Clients</div>
-            </div>
-          </div>
-        </div>
+          
       </section>
 
       {/* About Section */}
